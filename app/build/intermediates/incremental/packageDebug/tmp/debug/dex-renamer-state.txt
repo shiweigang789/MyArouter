@@ -1,0 +1,4 @@
+#Mon Aug 05 09:09:09 CST 2019
+base.0=D\:\\demo\\NetEase_Modular_ARouter_Laster\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
