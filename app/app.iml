@@ -170,5 +170,15 @@
     <orderEntry type="module" module-name="arouter_annotation" />
     <orderEntry type="module" module-name="arouter_api" />
     <orderEntry type="module" module-name="order" />
+    <orderEntry type="module" module-name="common" />
+    <orderEntry type="module" module-name="personal" />
+    <orderEntry type="module" module-name="arouter_annotation" />
+    <orderEntry type="module" module-name="arouter_api" />
+    <orderEntry type="module" module-name="order" />
+    <orderEntry type="module" module-name="common" />
+    <orderEntry type="module" module-name="personal" />
+    <orderEntry type="module" module-name="arouter_annotation" />
+    <orderEntry type="module" module-name="arouter_api" />
+    <orderEntry type="module" module-name="order" />
   </component>
 </module>

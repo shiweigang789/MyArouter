@@ -39,5 +39,7 @@
     <orderEntry type="library" exported="" name="Gradle: animal-sniffer-annotations-1.14" level="project" />
     <orderEntry type="module" module-name="arouter_annotation" exported="" />
     <orderEntry type="module" module-name="arouter_annotation" exported="" />
+    <orderEntry type="module" module-name="arouter_annotation" exported="" />
+    <orderEntry type="module" module-name="arouter_annotation" exported="" />
   </component>
 </module>
